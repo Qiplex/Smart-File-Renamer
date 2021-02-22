@@ -1,6 +1,6 @@
 # [Smart File Renamer](https://qiplex.com/software/smart-file-renamer/)
 
-### Rename files and folders easily on Windows, macOS and Linux!
+### Rename files and folders easily on Windows, macOS and Linux
 
 ### More info https://qiplex.com/software/smart-file-renamer/
 
